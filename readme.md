@@ -2,8 +2,6 @@
 This is the repository hosting the work of group 2 as part of the Visual Recognition course in the Computer Vision master. For more information, check out yhe official website of the [course](https://mcv.uab.cat/c5-visual-recognition/)
 
 ## Group 2 ##
-
-**Group members:**
 * Goio García Moro - goiogm@hotmail.com
 * Iker García Fernández - ikerportbou@gmail.com
 * Miruna-Diana Jarda - miruna_jarda_diana@yahoo.com
