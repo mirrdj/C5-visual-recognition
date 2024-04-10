@@ -1,4 +1,4 @@
-# Report on object detection and segmentation  #
+# C5 Visual Recognition #
 ## Group 2 ##
 
 **Group members:**
