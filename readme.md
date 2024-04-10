@@ -3,9 +3,9 @@ This is the repository hosting the work of group 2 as part of the Visual Recogni
 
 ## Group 2 ##
 * Goio García Moro - goiogm@hotmail.com
-* Iker García Fernández - ikerportbou@gmail.com
-* Miruna-Diana Jarda - miruna_jarda_diana@yahoo.com
-* Xavi Micó Pérez - xavier.mico.perez@gmail.com
+* Iker García Fernández - iker.garcia.fernandez@estudiantat.upc.edu
+* Miruna-Diana Jarda - MirunaDiana.Jarda@autonoma.cat
+* Xavi Micó Pérez - Xavier.Mico@autonoma.cat
 
 **Overleaf**
 [link to report](https://www.overleaf.com/read/nkvrrpfjvkcd#5515d9)
