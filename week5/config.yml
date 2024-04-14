@@ -1,0 +1,7 @@
+CAPTIONS_DIR: './captions_2_1'
+UNGEN: './'
+GEN: './'
+
+IMG_DIR: './Results_2_1'
+
+GENERATED_DB: 'generated.csv'

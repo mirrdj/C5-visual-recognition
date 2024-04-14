@@ -1,0 +1,8 @@
+DATASET_DIR: '/ghome/group02/mcv/datasets/C5/COCO'
+TRAIN_FILE: 'captions_train2014.json'
+TRAIN_FOLDER: 'train2014'
+VAL_FILE: 'captions_val2014.json'
+VAL_FOLDER: 'val2014'
+
+WEIGHTS_DIR: './weights'
+
