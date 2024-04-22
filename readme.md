@@ -21,3 +21,6 @@ Week 3: Image Retrieval [(presentation)](https://www.canva.com/design/DAF_C630Oe
 Week 4: Cross-modal Retrieval [(presentation)](https://www.canva.com/design/DAGBv7v79ow/OIz4DhNw2qjuBor9ov_GuQ/view?utm_content=DAGBv7v79ow&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Week 5: Diffusion models [(presentation)](https://www.canva.com/design/DAGCBH5LVWU/_qER65GYT657VWMBkT41dg/view)
+
+Week 6: Multimodal Human Analysis [(presentation)](https://www.canva.com/design/DAGCwywcdDc/OFgynlnuA7HzSHgjiJkqFQ/view)
+
