@@ -2,11 +2,10 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone [<repository-url>](https://github.com/mirrdj/C5-visual-recognition-G2.git)
+   cd C5-visual-recognition-G2/week6
 
 2.  **Create missing directories**:
-
 .
 ├── src/
 │ ├── models/
@@ -24,7 +23,8 @@
 │ ├── validate/
 │ │ ├── 1/
 │ │ └── ...
-│ └── test/
+│ ├── test/
+│ │ ├── 1/
 │ │ └── ...
 ├── README.md
 └── ...
