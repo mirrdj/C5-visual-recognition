@@ -6,7 +6,7 @@
    cd C5-visual-recognition-G2/week6
 
 2.  **Create missing directories**:
-.
+
 ├── src/
 │ ├── models/
 │ ├── datasets/
