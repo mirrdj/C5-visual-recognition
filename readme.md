@@ -24,3 +24,5 @@ Week 5: Diffusion models [(presentation)](https://www.canva.com/design/DAGCBH5LV
 
 Week 6: Multimodal Human Analysis [(presentation)](https://www.canva.com/design/DAGCwywcdDc/OFgynlnuA7HzSHgjiJkqFQ/view)
 
+[(Final Presentation)](https://www.canva.com/design/DAGDiPPZOTI/wVjiKYTdyGzyUVbohReOJA/edit?utm_content=DAGDiPPZOTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
